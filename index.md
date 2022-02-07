@@ -1,10 +1,10 @@
 ## My Homepage
 
-I am using the [editor on GitHub](https://github.com/AlfredoJwang/hzhuang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am using the [editor on GitHub](https://github.com/AlfredoJwang/hzhuang.github.io/edit/gh-pages/index.md) to maintain this homepage. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here is my [CV](https://drive.google.com/file/d/1X6H7R8zmcizPfe3fdEqiCz7x0PqJQlE6/view?usp=sharing). 
 
-### Markdown
+### Publications
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
