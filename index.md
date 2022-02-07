@@ -6,9 +6,9 @@ Here is my [CV](https://drive.google.com/file/d/1X6H7R8zmcizPfe3fdEqiCz7x0PqJQlE
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Research Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am interested in both mathematics and applied subjects. For mathematics, I mainly study noncommutative geometry and sometimes plunge into partial differential equations. For applied subjects, I spend most of my time on machine learning, especially manifold learning. I am also learning data science at present. 
 
 ```markdown
 Syntax highlighted code block
