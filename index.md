@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## About Myself
 
-You can use the [editor on GitHub](https://github.com/AlfredoJwang/hzhuang/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am now a 3rd year PhD student of Mathematics in WUSTL. Before I came to St. Louis, MO, I got my Bachelor's degree in Fudan University, Shanghai, China.
+
+Here is my [CV](https://drive.google.com/file/d/1X6H7R8zmcizPfe3fdEqiCz7x0PqJQlE6/view?usp=sharing).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
