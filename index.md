@@ -1,7 +1,4 @@
 ## My Homepage
-
-github:
-  is_project_page: false
   
 I am using the [editor on GitHub](https://github.com/AlfredoJwang/hzhuang.github.io/edit/gh-pages/index.md) to maintain this homepage. 
 
