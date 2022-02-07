@@ -1,5 +1,8 @@
 ## My Homepage
 
+github:
+  is_project_page: false
+  
 I am using the [editor on GitHub](https://github.com/AlfredoJwang/hzhuang.github.io/edit/gh-pages/index.md) to maintain this homepage. 
 
 Here is my [CV](https://drive.google.com/file/d/1X6H7R8zmcizPfe3fdEqiCz7x0PqJQlE6/view?usp=sharing). 
